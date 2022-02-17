@@ -1,0 +1,48 @@
+html{
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+*,*:after, *:before{
+    box-sizing: inherit;
+}
+.maket{
+    width: 1440px;
+}
+.header1{
+    width: 1440px;
+    height: 120px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    width: 122px;
+    height: 63px;
+    margin-left:113px;
+    top: 33px;
+    bottom: 23px;
+}
+ul{
+    list-style: none;
+    display: flex;
+    flex-flow: nowrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    margin-left: 566px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    Font-family: Cormorant Garamond
+    Font-size:24px;
+    Line-height: 30px;
+    color: #B08EAD;
+}
+.korzinka{
+    width: 22px;
+    height: 20px;
+    margin-right: 170px;
+    margin-top: 13px;
+
+
+}
