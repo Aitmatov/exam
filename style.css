@@ -1,14 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=Roboto&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&family=Roboto&display=swap');
 body{
-    margin: 0;
+    margin: 20px;
     padding: 0;
 }
-.maket{
-    padding: 15px;
-    width: 1440px;
-    border: 1px  solid greenyellow ;
-}
+
+
 .header1{
     width: 1440px;
     height: 120px;
@@ -42,7 +39,7 @@ ul{
 .korzinka{
     width: 22px;
     height: 20px;
-    margin-right: 160px;
+    margin-right: 120px;
     margin-top: 13px;
 }
 .block-0{
@@ -65,13 +62,7 @@ ul{
     margin-top: -731px;
     margin-left: 178px;
 }
-/*.frontphoto-2{
-    position: absolute;
-    width: 425px;
-    height: 450px;
-    margin-top: -616px;
-    margin-left: 903px;
-}*/
+
 .text-0{
     position: absolute;
     margin-top: -602px;
@@ -123,7 +114,7 @@ ul{
 }
 .btn{
     position: absolute;
-    width: 70px;
+    width: 66px;
     height: 0.5em;
     margin-left: -62px;
 
